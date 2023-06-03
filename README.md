@@ -1,8 +1,8 @@
-# Project Name
-> Outline a brief description of your project.
+# Project Name <!-- REQUIRED -->
+> Outline a brief description of your project. <!-- If you have an image, like your project logo or something that represent your project, add it -->
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
+## Table of Contents <!-- REQUIRED, well, should be required -->
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -16,7 +16,7 @@
 <!-- * [License](#license) -->
 
 
-## General Information
+## General Information <!-- OPTIONAL -->
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
@@ -24,42 +24,42 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Technologies Used <!-- REQUIRED -->
 - Tech 1 - version 1.0
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
 
 
-## Features
+## Features <!-- OPTIONAL -->
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
 
 
-## Screenshots
+## Screenshots <!-- OPTIONAL -->
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+## Setup <!-- REQUIRED, depends of context of your project -->
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+## Usage <!-- REQUIRED, depends of context of your project -->
 How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
 
 
-## Project Status
+## Project Status <!-- OPTIONAL -->
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
 
-## Room for Improvement
+## Room for Improvement <!-- OPTIONAL -->
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
@@ -71,14 +71,14 @@ To do:
 - Feature to be added 2
 
 
-## Acknowledgements
+## Acknowledgements <!-- OPTIONAL, but be grateful -->
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
 
-## Contact
+## Contact <!-- OPTIONAL, if you like be famous xD -->
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
